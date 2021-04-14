@@ -1,7 +1,7 @@
 Hello World 🙋🏻‍♂️
 ----------------
 Me chamo Vitor, sou de São Paulo, tenho 17 anos<br>
-Estudo programação desde Março/2021 e no momento possuo conhecimentos intermediarios em:<br>
+Estudo programação desde Março/2021 e no momento possuo conhecimentos em:<br>
 <img src="https://3.bp.blogspot.com/-pxR8u1KJTW8/XIb7zIKqqQI/AAAAAAAAIrA/KDNONkGKj-EDm1vadBqJbxMg64oi0LVXgCK4BGAYYCw/s1600/logo%2Bhtml5.png" alt="" width="40px">
 HTML5
 <img src="https://3.bp.blogspot.com/-oRSUw_TmO9o/XIb61m88fcI/AAAAAAAAIq0/vnxl2zzsXEQsnHI2fH4GjKu_ZT0urRo4wCK4BGAYYCw/s1600/icon%2Bcss%2B3.png" alt="" width="40px">
