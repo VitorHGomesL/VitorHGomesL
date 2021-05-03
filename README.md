@@ -31,5 +31,5 @@ Outras midias:<br>
 <a href="Mailto:Lourencovitor2@gmail.com"> <img src="https://www.google.com/gmail/about/static/images/logo-gmail.png?cache=1adba63" alt="" width="40px"> </a>
 <a href="https://instagram.com/___lourenco_?igshid=s3dtr52w7k2n"> <img src="https://logodownload.org/wp-content/uploads/2017/04/instagram-logo-3.png" alt="" width="40px"> </a>
 
-
+<img align="left" alt="Vitor Gomes' github stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=VitorHGomesL&show_icons=true&hide_border=true" />
 
